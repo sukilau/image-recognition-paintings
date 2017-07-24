@@ -1,5 +1,5 @@
 # What's in this repo
-Task : Using convolutional neural network for classification of artwork from different artists
+Task : Using convolutional neural network for image recognition of artwork from different artists
 
 *image-scraper.ipynb*
 * A script to scrape images from Google Image Search using custom keywords.
