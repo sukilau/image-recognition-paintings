@@ -1,14 +1,14 @@
 # What's in this repo
-Using convolutional neural network for classification of artwork from different artists
+Task : Using convolutional neural network for classification of artwork from different artists
 
 *image-scraper.ipynb*
-* A script to scrape images from Google Image Search using customized keywords.
+* A script to scrape images from Google Image Search using custom keywords.
 
-*cnn-image-recognition*
-* Using Keras (deep learning library) to construct convolutional neural network to classify paintings from different artist.
+*cnn-image-recognition.ipynb*
+* Using Keras (deep learning library) to construct convolutional neural network to classify paintings from different artists.
 
 *accuracy-plot.jpg*
-* A plot showing accuracy on training set and validation set when epochs increase.
+* A plot showing accuracy on the training set and validation set when epoch increases.
 
 *intermediate-layer.jpg*
 * Visualization of intermediate layer.
