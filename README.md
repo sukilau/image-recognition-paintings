@@ -14,7 +14,7 @@ Using convolutional neural network for image recognition of artwork from differe
 *accuracy-plot.jpg*
 * A plot showing accuracy on the training set and validation set when epoch increases.
 
-![accuracy plot](/cnn-image-recognition-paintings/accuracy-plot.jpg)
+![accuracy plot](cnn-image-recognition-paintings/accuracy-plot.jpg)
 
 
 *intermediate-layer.jpg*
