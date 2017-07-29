@@ -3,6 +3,7 @@
 ## Task
 Using convolutional neural network for image recognition of artwork from different artists
 
+
 ## What is in this repo
 
 *image-scraper.ipynb*
@@ -11,13 +12,10 @@ Using convolutional neural network for image recognition of artwork from differe
 *cnn-image-recognition-paintings.ipynb*
 * Using Keras to construct convolutional neural network to classify paintings from different artists.
 
-*accuracy-plot.jpg*
-* A plot showing accuracy on the training set and validation set when epoch increases.
 
+## Model accuracy
 ![accuracy plot](/accuracy-plot.jpg)
 
 
-*intermediate-layer.jpg*
-* Visualization of intermediate layer.
-
+## Visualization of hidden layer
 ![visualization of hidden layer](/intermediate-layer.jpg)
