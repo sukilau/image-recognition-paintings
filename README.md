@@ -13,9 +13,12 @@ Using convolutional neural network for image recognition of artwork from differe
 * Using Keras to construct convolutional neural network to classify paintings from different artists.
 
 
+## Visualization of hidden layer
+![visualization of hidden layer](/intermediate-layer.jpg)
+
+
 ## Model accuracy
 ![accuracy plot](/accuracy-plot.jpg)
 
 
-## Visualization of hidden layer
-![visualization of hidden layer](/intermediate-layer.jpg)
+
